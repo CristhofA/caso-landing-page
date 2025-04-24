@@ -45,13 +45,21 @@ Además de la landing page, el mismo proyecto incluye un sitio de documentación
 
 A continuación se muestran imágenes representativas de la landing page y la documentación técnica:
 
-| Landing Page                             | Página Docusaurus                         | Sidebar con íconos                      |
-|------------------------------------------|--------------------------------------------|------------------------------------------|
-| ![Landing](./captura/captura1.png)    | ![Docusaurus](./captura/captura2.png) | ![Sidebar](./captura1/captura3.png)    |
-
-> 💡 Las imágenes deben estar dentro de una carpeta llamada `screenshots/` en el mismo repositorio.
+### 📄 Landing Page
+![Landing](./captura/captura1.png)
 
 ---
+
+### 📘 Página Docusaurus
+![Docusaurus](./captura/captura2.png)
+
+---
+
+### 🧭 Sidebar con íconos
+![Sidebar](./captura/captura3.png)
+
+> 💡 Las imágenes deben estar dentro de una carpeta llamada `captura/` en el mismo repositorio.
+
 
 ## 🚀 Tecnologías utilizadas
 
