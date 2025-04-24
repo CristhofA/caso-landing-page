@@ -22,6 +22,19 @@ Además de la landing page, el mismo proyecto incluye un sitio de documentación
 🔗 Accede aquí:  
 [https://933808203.facturalo.co/docusaurus/](https://933808203.facturalo.co/docusaurus/)
 
+---
+
+## 🌀 Versión en GitHub Pages
+
+Además del despliegue en CPanel, este proyecto también está disponible en **GitHub Pages**. Esto permite acceder fácilmente tanto a la landing page como a la documentación técnica desde el entorno de GitHub.
+
+🔗 **Landing Page:**  
+[https://cristhofa.github.io/caso-landing-page/](https://cristhofa.github.io/caso-landing-page/)
+
+🔗 **Docusaurus:**  
+[https://cristhofa.github.io/caso-landing-page/docusaurus/](https://cristhofa.github.io/caso-landing-page/docusaurus/)
+
+
 ### 📝 Características del sitio Docusaurus:
 
 #### 🛠️ Levantamiento del proyecto
